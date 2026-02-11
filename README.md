@@ -1,16 +1,18 @@
-## Hi there 👋
+# 💫 About Me:
+Cybersecurity professional with 3+ years of hands-on experience in Security Operations, incident triage, and system-level troubleshooting across Windows and Linux environments. Certified Ethical Hacker (CEH) and Computer Hacking Forensic Investigator (CHFI) with strong expertise in log analysis, threat detection, and vulnerability assessment.<br><br>I have experience performing Level 1 SOC activities including security alert monitoring, root cause analysis, incident documentation, and SLA-driven ticket management. Skilled in analyzing Windows Event Logs, syslogs, and security artifacts to detect anomalies, unauthorized access attempts, and potential Indicators of Compromise (IOCs).<br><br>My technical toolkit includes SIEM platforms such as Splunk and Chronicle, along with tools like Wireshark, Nmap, Metasploit, Burp Suite, and TCPdump. I have working knowledge of NIST Cybersecurity Framework, MITRE ATT&CK, and OWASP Top 10, which I apply while investigating and responding to security events.<br><br>I am passionate about threat hunting, digital forensics, and strengthening enterprise security posture. Continuously improving my skills through certifications and hands-on lab practice, I am actively seeking opportunities as a SOC Analyst, Security Analyst, or Digital Forensics Analyst in a growth-driven organization.<br><br>Let’s connect if you’re hiring for cybersecurity roles or building strong security teams.
 
-<!--
-**Parakh-Shinde/Parakh-Shinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Parakh shinde) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Parakh Shinde) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/Parakh-Shinde) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Parakh Shinde) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parakhshinde2002@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Parakh-Shinde&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Parakh-Shinde&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parakh-Shinde&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Parakh-Shinde&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
