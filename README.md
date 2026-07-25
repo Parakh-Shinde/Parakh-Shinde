@@ -2,10 +2,6 @@
   <img src="./terminal_window.gif" width="700" alt="Terminal intro">
 </p>
 
-<p align="center">
-  <img src="./portrait_1.svg" width="620" alt="Animated terminal portrait">
-</p>
-
 # 💫 About Me
 
 Aspiring SOC Analyst transitioning from a 3-year career in technical support into Security Operations. CEH and CHFI certified, with hands-on lab experience in SIEM detection engineering, cloud security monitoring, and incident response.
