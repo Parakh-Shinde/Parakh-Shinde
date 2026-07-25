@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./terminal_windows.gif" width="700" alt="Terminal intro">
+</p>
+
+<p align="center">
   <img src="./portrait_1.svg" width="620" alt="Animated terminal portrait">
 </p>
 
@@ -41,3 +45,4 @@ Aspiring SOC Analyst transitioning from a 3-year career in technical support int
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Parakh-Shinde&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- Proudly built and maintained by Parakh Shinde -->
