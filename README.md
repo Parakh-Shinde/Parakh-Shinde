@@ -37,6 +37,17 @@ My work focuses on **Python security engineering**, **GCP and AWS security**, **
 
 ## Technical toolkit
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=white" alt="Terraform">
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" alt="Splunk">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white" alt="GitHub Actions">
+</p>
+
 **Languages and automation:** Python, PowerShell, Bash, SQL, HCL  
 **Cloud and infrastructure:** GCP, AWS, Terraform, Linux, Windows, VMware  
 **Security engineering:** IAM, Splunk, Sysmon, Suricata, YARA, SARIF, MITRE ATT&CK  
