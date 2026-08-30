@@ -1,39 +1,63 @@
-# Parakh-Shinde
+# Parakh Shinde
 
-> Recruiter-friendly proof and contact path.
+### Security Engineering · Cloud IAM · Detection Engineering · AI Security
 
-## Header
+I build security tools and laboratory platforms that turn cloud, identity, endpoint, and network telemetry into explainable security decisions.
 
-Hi, I'm **Parakh-Shinde**. This README shares what I'm building, the tools I use, and the work I'm proud of.
+My work focuses on **Python security engineering**, **GCP and AWS security**, **identity and access analysis**, **detection-as-code**, and **analyst-controlled AI automation**. I am currently pursuing an MCA in Cybersecurity and am open to entry-level Security Engineer, Cloud Security, Detection Engineering, Product Security, and SOC Engineering opportunities in India.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Parakh-Shinde&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=Parakh-Shinde&theme=satan" alt="Parakh-Shinde hero section" />
-  </picture>
-</p>
-## Skills
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Parakh_Shinde-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parakh-shinde)
+[![GitHub](https://img.shields.io/badge/GitHub-Parakh--Shinde-181717?logo=github&logoColor=white)](https://github.com/Parakh-Shinde)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=Parakh-Shinde&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=Parakh-Shinde&theme=satan" alt="Parakh-Shinde stack section" />
-  </picture>
-</p>
-## Projects
+## Selected engineering work
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=Parakh-Shinde&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=Parakh-Shinde&theme=satan" alt="Parakh-Shinde projects section" />
-  </picture>
-</p>
-## Heatmap
+| Project | Engineering focus | Verifiable evidence |
+| --- | --- | --- |
+| [GCP IAMGraph](https://github.com/Parakh-Shinde/GCP-IAMGraph) | Explainable GCP IAM authorization and attack-path analysis | Three-state `ALLOW`/`DENY`/`UNKNOWN` decisions, inherited deny policies, SARIF, Python 3.10–3.12 CI, 74 tests, 91.33% coverage, versioned releases |
+| [Enterprise Cloud Security Monitoring Platform](https://github.com/Parakh-Shinde/Enterprise-Cloud-Security-Monitoring-Platform) | AWS cloud-security monitoring and detection engineering | Terraform, CloudTrail, WAF, VPC Flow Logs, Splunk, MITRE ATT&CK detections, CI validation and incident-response evidence |
+| [Automated LLM Vulnerability Assessment](https://github.com/Parakh-Shinde/Automated-LLM-Vulnerability-Assessment) | Reproducible adversarial evaluation of local LLMs | NVIDIA garak, matched baseline/guarded experiments, Python analysis, tests, CI and structured result artifacts |
+| [AI-Augmented SOC Triage Platform](https://github.com/Parakh-Shinde/AI-Augmented-SOC-Triage-Platform) | Evidence-driven SOC triage with local AI | Splunk, Ollama, Sysmon, Suricata, YARA, MITRE ATT&CK, audit records and approval-gated response workflows |
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=Parakh-Shinde&theme=satan&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=Parakh-Shinde&theme=satan" alt="Parakh-Shinde about section" />
-  </picture>
-</p>
-## Connect
+## What I work on
+
+- **Cloud and identity security:** GCP IAM, AWS IAM, privilege escalation, policy inheritance and least privilege
+- **Detection engineering:** Splunk SPL, detection-as-code, Sysmon, Suricata, CloudTrail, WAF and VPC Flow Logs
+- **Security automation:** Python tooling, structured evidence, SARIF, CI quality gates and reproducible testing
+- **AI security:** LLM red teaming, prompt-injection testing, guardrail evaluation and analyst-controlled AI workflows
+- **Incident response:** alert triage, MITRE ATT&CK mapping, forensic evidence, investigation workflow and remediation documentation
+
+## Engineering principles
+
+- Evidence before conclusions
+- Explicit uncertainty instead of unsafe assumptions
+- Least-privilege and read-only defaults
+- Deterministic, reproducible output
+- Human approval before containment
+- Honest limitations and documented threat models
+
+## Technical toolkit
+
+**Languages and automation:** Python, PowerShell, Bash, SQL, HCL  
+**Cloud and infrastructure:** GCP, AWS, Terraform, Linux, Windows, VMware  
+**Security engineering:** IAM, Splunk, Sysmon, Suricata, YARA, SARIF, MITRE ATT&CK  
+**Assessment and validation:** Burp Suite, Nmap, Nessus, Trivy, garak, Wireshark  
+**Frameworks:** NIST CSF, NIST SP 800-61, OWASP Top 10, ISO/IEC 27001 concepts
+
+## Current direction
+
+I am extending GCP IAMGraph with live, read-only cloud collection, differential validation against authoritative authorization decisions, performance benchmarks, and additional policy semantics.
+
+I am also interested in contributing to open-source projects across cloud security, IAM, detection engineering, and AI security.
+
+## Credentials
+
+- Certified Ethical Hacker (CEH v13)
+- Computer Hacking Forensic Investigator (CHFI)
+- BCA graduate; pursuing MCA in Cybersecurity
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
+- [GitHub projects](https://github.com/Parakh-Shinde?tab=repositories)
+
+> All offensive-security activity documented in these repositories was performed in isolated, authorized laboratory environments.
