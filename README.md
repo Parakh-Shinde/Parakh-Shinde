@@ -1,6 +1,6 @@
 # Hi, I'm Parakh Shinde
 
-### Entry-Level Cybersecurity Engineer | AI Security | Red Team | Detection Engineering | Cloud Security
+### Cybersecurity Engineer | AI Security | Red Team | Detection Engineering | Cloud Security
 
 I build security projects that turn offensive testing, cloud telemetry, identity data, and endpoint signals into clear evidence for defenders.
 
