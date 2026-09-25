@@ -1,32 +1,32 @@
-# Hi, I'm Parakh Shinde
+# Parakh Shinde
 
 ### Cybersecurity Engineer | AI Security | Red Team | Detection Engineering | Cloud Security
 
-I build security projects that turn offensive testing, cloud telemetry, identity data, and endpoint signals into clear evidence for defenders.
+I build security projects that connect attack simulation, cloud telemetry, identity analysis, and detection engineering into reviewable evidence. My strongest work is in **AI Security**, **LLM red teaming**, **API abuse-path modeling**, **cloud IAM analysis**, and **SOC/detection engineering**.
 
-My current focus is **AI Security**, **LLM red teaming**, **API security**, **cloud IAM analysis**, and **detection engineering**. I am a BCA graduate pursuing an MCA in Cybersecurity, looking for entry-level cybersecurity roles, internships, and startup opportunities across India. I am open to onsite roles and relocation.
+I am a BCA graduate pursuing an MCA in Cybersecurity and looking for entry-level cybersecurity roles, internships, and startup opportunities across India. I am open to onsite roles and relocation.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-parakh--shinde.github.io-00E5A8?style=for-the-badge&logo=githubpages&logoColor=111111)](https://parakh-shinde.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Parakh_Shinde-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parakh-shinde/)
 [![GitHub](https://img.shields.io/badge/GitHub-Parakh--Shinde-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Parakh-Shinde)
 
-## What I Bring
+## Engineering Focus
 
-- **AI Security and Red Team:** prompt injection testing, LLM guardrail evaluation, adversarial test cases, abuse-path thinking
-- **Cloud and IAM Security:** GCP IAM, AWS IAM, least privilege, policy review, privilege escalation paths
-- **Detection Engineering:** Splunk SPL, Sigma/KQL concepts, MITRE ATT&CK mapping, alert context, noise reduction
-- **Security Automation:** Python tooling, reproducible reports, structured evidence, SARIF, CI quality checks
-- **SOC and IR Foundations:** triage workflow, log analysis, CloudTrail, WAF, VPC Flow Logs, Sysmon, Suricata
+- **AI Security and Red Team:** prompt-injection testing, guardrail evaluation, adversarial test cases, tool/API abuse paths
+- **Cloud and IAM Security:** GCP IAM, AWS IAM, least privilege, policy analysis, privilege-escalation paths
+- **Detection Engineering:** Splunk SPL, Sigma/KQL concepts, MITRE ATT&CK mapping, alert context and false-positive reduction
+- **Security Automation:** Python tooling, structured evidence, SARIF, CI checks, reproducible reports
+- **SOC and Incident Response:** triage workflow, CloudTrail, WAF, VPC Flow Logs, Sysmon, Suricata, analyst handoff
 
-## Featured Projects
+## Featured Security Engineering Projects
 
-| Project | Focus | Evidence recruiters can verify |
+| Project | Problem solved | Engineering evidence |
 | --- | --- | --- |
-| [AegisForge](https://github.com/Parakh-Shinde/AegisForge) | AI Security, prompt injection, API abuse paths, red-team style testing | Python security harness, prompt-injection scenarios, modeled tool-call abuse, cross-tenant API authorization checks, detection reporting |
-| [GCP IAMGraph](https://github.com/Parakh-Shinde/GCP-IAMGraph) | Cloud IAM authorization and attack-path analysis | Three-state `ALLOW` / `DENY` / `UNKNOWN` decisions, inherited deny logic, SARIF output, 74 tests, 91.33% coverage |
-| [Automated LLM Vulnerability Assessment](https://github.com/Parakh-Shinde/Automated-LLM-Vulnerability-Assessment) | Local LLM security evaluation | NVIDIA garak experiments, baseline vs guarded model comparison, jailbreak and encoding-injection testing, structured reports |
-| [Enterprise Cloud Security Monitoring Platform](https://github.com/Parakh-Shinde/Enterprise-Cloud-Security-Monitoring-Platform) | AWS monitoring and detection engineering | CloudTrail, WAF, VPC Flow Logs, Splunk detections, MITRE ATT&CK mapping, investigation evidence |
-| [AI-Augmented SOC Triage Platform](https://github.com/Parakh-Shinde/AI-Augmented-SOC-Triage-Platform) | SOC triage and analyst-controlled AI | Splunk, Ollama, Sysmon, Suricata, YARA, approval-gated response flow, audit records |
+| [AegisForge](https://github.com/Parakh-Shinde/AegisForge) | Tests AI prompt defenses, modeled tool calls, API authorization, and correlated detections in one lab-safe attack chain | Python CLI/API, synthetic prompt-injection corpus, tenant-boundary checks, telemetry, benchmark gates, holdout analysis |
+| [GCP IAMGraph](https://github.com/Parakh-Shinde/GCP-IAMGraph) | Explains Google Cloud IAM access and privilege-escalation paths before confirming risk | `ALLOW` / `DENY` / `UNKNOWN` authorization decisions, inherited deny logic, SARIF, 74 tests, 91.33% coverage |
+| [Automated LLM Vulnerability Assessment](https://github.com/Parakh-Shinde/Automated-LLM-Vulnerability-Assessment) | Compares baseline and guarded local LLM behavior under matched adversarial tests | NVIDIA garak, DAN jailbreak checks, encoding-injection tests, JSONL/CSV/Markdown evidence, residual-risk analysis |
+| [Enterprise Cloud Security Monitoring Platform](https://github.com/Parakh-Shinde/Enterprise-Cloud-Security-Monitoring-Platform) | Builds an AWS/Splunk SOC lab for cloud, web, host, and network detection | Terraform, CloudTrail, AWS WAF, VPC Flow Logs, 10 SPL detections, validation reports, dashboards, runbooks |
+| [AI-Augmented SOC Triage Platform](https://github.com/Parakh-Shinde/AI-Augmented-SOC-Triage-Platform) | Uses local AI to assist SOC triage while keeping response analyst-controlled | Splunk, Ollama, Sysmon, Suricata, YARA, SQLite audit records, approval-gated response workflow |
 
 ## Technical Toolkit
 
@@ -48,17 +48,17 @@ My current focus is **AI Security**, **LLM red teaming**, **API security**, **cl
 **Testing and assessment:** Burp Suite, Nmap, Nessus, Trivy, garak, Wireshark  
 **Frameworks and concepts:** OWASP Top 10, NIST CSF, NIST SP 800-61, ISO/IEC 27001 concepts
 
-## How I Build
+## How I Work
 
-- I prefer evidence over assumptions.
-- I document what was tested, what failed, and what still needs validation.
-- I design labs with isolated, authorized environments.
-- I keep detection output useful for analysts: what happened, why it matters, ATT&CK mapping, and next steps.
-- I use reproducible testing and clear reports so projects can be reviewed by recruiters and engineers.
+- I keep claims tied to evidence that a reviewer can inspect.
+- I document limitations instead of hiding them.
+- I design labs around isolated, authorized systems.
+- I separate detection, AI enrichment, authorization, and response decisions.
+- I build reports that answer: what happened, why it matters, ATT&CK mapping, evidence, and next steps.
 
 ## Current Direction
 
-I am building deeper capability in AI Security and Red Team engineering through AegisForge while continuing cloud IAM and detection-engineering projects. My goal is to grow into a security engineering role where I can build practical tools, test real attack paths safely, and help teams make better security decisions.
+I am expanding AegisForge as my hero AI Security project while continuing cloud IAM and detection-engineering work. My goal is to grow into a security engineering role where I can build practical tools, test attack paths safely, and improve security decision-making with strong evidence.
 
 ## Contact
 
