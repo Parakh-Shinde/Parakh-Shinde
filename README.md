@@ -2,11 +2,11 @@
 
 # Parakh Shinde
 
-### Security Engineer | AI Security | API Security | Detection Engineering
+### Security Engineer | AI Security | API Security | Detection Engineering | AegisForge
 
-I build security projects that combine offensive thinking, defensive validation, and software engineering discipline.
+I build lab-safe security projects that connect attacker-informed thinking, defensive validation, telemetry, and software engineering discipline.
 
-[Portfolio](https://parakh-shinde.github.io/) • [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
+[Portfolio](https://parakh-shinde.github.io/) • [Resume](https://parakh-shinde.github.io/Parakh-Shinde--Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
 
 </div>
 
@@ -18,7 +18,7 @@ Cybersecurity fresher focused on **AI Security, API Security, Detection Engineer
 
 I approach security with an attacker-informed mindset: understanding how real-world adversaries think, how attack paths are chained, how trust boundaries fail, and how defenders can detect and respond with reliable evidence.
 
-My current work focuses on building practical security systems with clean code, reproducible testing, telemetry, detection logic, documentation, CI/CD, and measurable validation.
+My current work focuses on practical security systems with clean code, reproducible testing, telemetry, detection logic, documentation, CI/CD, measurable validation, and recruiter-ready evidence.
 
 ---
 
@@ -90,5 +90,6 @@ The project models how modern AI applications can fail across multiple trust bou
 ## Links
 
 - [Portfolio Website](https://parakh-shinde.github.io/)
+- [Resume](https://parakh-shinde.github.io/Parakh-Shinde--Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
 - [AegisForge](https://github.com/Parakh-Shinde/AegisForge)
