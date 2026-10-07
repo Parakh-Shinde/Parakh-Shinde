@@ -2,7 +2,7 @@
 
 # Parakh Shinde
 
-### Security Engineer | AI Security | API Security | Detection Engineering | AegisForge
+### Security Engineer | AI Security | API Security | Detection Engineering
 
 I build lab-safe security projects that connect attacker-informed thinking, defensive validation, telemetry, and software engineering discipline.
 
@@ -62,6 +62,22 @@ The project models how modern AI applications can fail across multiple trust bou
 
 ---
 
+### AEGISAI — AI Security Evaluation & Release-Gate Lab
+
+AEGISAI is a local AI security lab for evaluating LLMs before they are trusted in real workflows. It connects local Ollama models, runs repeatable adversarial safety suites, captures evidence, supports analyst review, compares model results, and produces release-readiness decisions.
+
+**Security engineering work:**
+
+- Built a FastAPI, React, TypeScript, SQLAlchemy, and Ollama-based lab workflow
+- Covers prompt injection, jailbreaks, system-prompt extraction, sensitive-data exposure, privacy leakage, and tool injection
+- Stores prompts, responses, severity, latency, campaigns, and analyst-review decisions for reproducible evidence
+- Implemented model scorecards, comparison views, dashboard metrics, and release-gate logic
+- Documented local-only boundaries and current production-hardening limitations
+
+**Project link:** [AEGISAI Repository](https://github.com/Parakh-Shinde/aegisai)
+
+---
+
 ## Core Skills
 
 **Security Engineering:** AI Security, API Security, Web Security, Threat Detection, SOC Analysis, Detection Engineering, Security Automation
@@ -78,6 +94,7 @@ The project models how modern AI applications can fail across multiple trust bou
 
 ## Current Focus
 
+- AI model security evaluation, adversarial safety testing, and release-gate design
 - AI threat modeling and prompt-injection defense
 - API authorization and multi-tenant security testing
 - Detection engineering mapped to MITRE ATT&CK
@@ -93,3 +110,4 @@ The project models how modern AI applications can fail across multiple trust bou
 - [Resume](https://parakh-shinde.github.io/Parakh-Shinde--Resume.pdf)
 - [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
 - [AegisForge](https://github.com/Parakh-Shinde/AegisForge)
+- [AEGISAI](https://github.com/Parakh-Shinde/aegisai)
