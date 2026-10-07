@@ -2,11 +2,11 @@
 
 # Parakh Shinde
 
-### Security Engineer | AI Security | API Security | Detection Engineering
+### Entry-Level Security Engineer | AI Security Labs | Cloud IAM & Detection Engineering
 
-I build lab-safe security projects that connect attacker-informed thinking, defensive validation, telemetry, and software engineering discipline.
+I build security projects in controlled environments with clear evidence, documented limitations, and reproducible testing.
 
-[Portfolio](https://parakh-shinde.github.io/) • [Resume](https://parakh-shinde.github.io/Parakh-Shinde--Resume.pdf) • [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
+[Portfolio](https://parakh-shinde.github.io/) • [LinkedIn](https://www.linkedin.com/in/parakh-shinde) • [GitHub](https://github.com/Parakh-Shinde)
 
 </div>
 
@@ -14,100 +14,34 @@ I build lab-safe security projects that connect attacker-informed thinking, defe
 
 ## Profile
 
-Cybersecurity fresher focused on **AI Security, API Security, Detection Engineering, SOC analysis, and lab-safe Red Team research**.
+BCA graduate and MCA student in Cyber Security and Cyber Forensics. My work focuses on AI security evaluation, cloud IAM analysis, detection engineering, and analyst-ready security automation.
 
-I approach security with an attacker-informed mindset: understanding how real-world adversaries think, how attack paths are chained, how trust boundaries fail, and how defenders can detect and respond with reliable evidence.
+I use authorized labs to turn security questions into testable systems: define a threat boundary, produce evidence, document limitations, and keep human review where automated decisions could cause harm.
 
-My current work focuses on practical security systems with clean code, reproducible testing, telemetry, detection logic, documentation, CI/CD, measurable validation, and recruiter-ready evidence.
+## Selected Projects
 
----
-
-## Featured Project
-
-### AegisForge — AI/API Security Platform
-
-AegisForge is a lab-safe AI/API security platform for testing prompt-injection defenses, API authorization controls, telemetry, and detection logic with reproducible evidence.
-
-The project models how modern AI applications can fail across multiple trust boundaries:
-
-- Untrusted content entering an AI workflow
-- Prompt-injection attempts against simulated agents
-- Secure vs vulnerable API authorization behavior
-- Tenant-boundary access control validation
-- AI/API telemetry generation
-- Detection logic for analyst-readable evidence
-
-**Security engineering work:**
-
-- Built Python CLI and FastAPI-based security tooling
-- Implemented prompt-injection inspection and guardrail evaluation
-- Modeled multi-tenant API authorization scenarios
-- Added secure and vulnerable execution modes for comparison
-- Generated JSON/Markdown reports with reproducible evidence
-- Added benchmark gates for precision, recall, F1, and false-positive rate
-- Integrated GitHub Actions, Pytest, Ruff, CodeQL, dependency scanning, and releases
-
-**APT-style thinking demonstrated safely:**
-
-- Chained AI/API attack-path modeling in an isolated lab
-- Trust-boundary analysis across AI workflows, tools, and APIs
-- Adversary-behavior inspired test cases without targeting real systems
-- Telemetry-driven detection and evidence generation
-- Defensive validation mapped to analyst investigation needs
-
-**Project links:**
-
-- [AegisForge Repository](https://github.com/Parakh-Shinde/AegisForge)
-- [Latest Release](https://github.com/Parakh-Shinde/AegisForge/releases/latest)
-
----
-
-### AEGISAI — AI Security Evaluation & Release-Gate Lab
-
-AEGISAI is a local AI security lab for evaluating LLMs before they are trusted in real workflows. It connects local Ollama models, runs repeatable adversarial safety suites, captures evidence, supports analyst review, compares model results, and produces release-readiness decisions.
-
-**Security engineering work:**
-
-- Built a FastAPI, React, TypeScript, SQLAlchemy, and Ollama-based lab workflow
-- Covers prompt injection, jailbreaks, system-prompt extraction, sensitive-data exposure, privacy leakage, and tool injection
-- Stores prompts, responses, severity, latency, campaigns, and analyst-review decisions for reproducible evidence
-- Implemented model scorecards, comparison views, dashboard metrics, and release-gate logic
-- Documented local-only boundaries and current production-hardening limitations
-
-**Project link:** [AEGISAI Repository](https://github.com/Parakh-Shinde/aegisai)
-
----
+| Project | Evidence-backed focus | Stack |
+|---|---|---|
+| [AEGISAI](https://github.com/Parakh-Shinde/aegisai) | Local AI security evaluation lab with adversarial suites, evidence capture, analyst review, model comparison, and release-gate decisions. | Python, FastAPI, React, TypeScript, SQLAlchemy, Ollama |
+| [AegisForge](https://github.com/Parakh-Shinde/AegisForge) | Lab-safe testing of synthetic prompt injection, API authorization scenarios, telemetry, and detection logic. | Python, FastAPI, Pytest, GitHub Actions |
+| [GCP-IAMGraph](https://github.com/Parakh-Shinde/GCP-IAMGraph) | Explainable GCP IAM attack-path analysis with structured ALLOW/DENY/UNKNOWN outcomes and SARIF export. | Python, GCP IAM, SARIF, GitHub Code Scanning |
+| [AWS Security Monitoring Lab](https://github.com/Parakh-Shinde/Enterprise-Cloud-Security-Monitoring-Platform) | AWS and Splunk investigation lab with 10 documented custom SPL detections. | AWS, CloudTrail, WAF, Splunk SPL |
+| [AI-Augmented SOC Triage](https://github.com/Parakh-Shinde/AI-Augmented-SOC-Triage-Platform) | Local AI-assisted triage with evidence preservation and approval-gated response workflows. | Python, Splunk, Ollama, SQLite |
 
 ## Core Skills
 
-**Security Engineering:** AI Security, API Security, Web Security, Threat Detection, SOC Analysis, Detection Engineering, Security Automation
-
-**Adversary-Informed Defense:** MITRE ATT&CK, attack-path analysis, APT-style thinking, lab-safe Red Team methodology, detection validation
-
-**Detection & Blue Team:** Sigma, Splunk basics, KQL basics, telemetry analysis, alert validation, false-positive reduction, analyst-readable evidence
-
-**Software Engineering:** Python, FastAPI, CLI tooling, Pytest, Ruff, Git, GitHub Actions, JSON, Markdown, Linux, Windows
-
-**Security Quality:** CI/CD, CodeQL, dependency scanning, benchmark gates, reproducible testing, release documentation
-
----
+- **AI security:** Prompt-injection evaluation, local LLM assessment, evidence capture, analyst review, release-gate design
+- **Cloud IAM and detection:** GCP IAM analysis, AWS CloudTrail/WAF monitoring, Splunk SPL, MITRE ATT&CK mapping
+- **Engineering:** Python, FastAPI, React, TypeScript, SQLAlchemy, GitHub Actions, CodeQL, SARIF
+- **Systems foundation:** Windows, Linux, networking, log analysis, troubleshooting
 
 ## Current Focus
 
-- AI model security evaluation, adversarial safety testing, and release-gate design
-- AI threat modeling and prompt-injection defense
-- API authorization and multi-tenant security testing
-- Detection engineering mapped to MITRE ATT&CK
-- APT-style attack-path thinking in safe lab environments
-- Python-based security automation
-- SOC-ready evidence and alert validation
+- Evaluating AI model behavior against adversarial prompts in controlled labs
+- Building explainable cloud-identity and detection-engineering evidence
+- Improving reproducible test suites, documentation, and security quality gates
+- Pursuing entry-level Security Engineer, Cloud Security, Detection Engineering, and AI Security roles
 
----
+## Scope Note
 
-## Links
-
-- [Portfolio Website](https://parakh-shinde.github.io/)
-- [Resume](https://parakh-shinde.github.io/Parakh-Shinde--Resume.pdf)
-- [LinkedIn](https://www.linkedin.com/in/parakh-shinde)
-- [AegisForge](https://github.com/Parakh-Shinde/AegisForge)
-- [AEGISAI](https://github.com/Parakh-Shinde/aegisai)
+All offensive, detection, and AI-security work shown here is limited to authorized labs, synthetic data, or intentionally vulnerable targets. Project claims describe documented lab evidence, not production deployment or real-world security guarantees.
