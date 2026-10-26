@@ -1,5 +1,5 @@
 # Parakh Shinde
-### Security Engineering | AI Security | Application Security
+### AI Security | Application Security | Python Security Tooling | MCA (Cyber Security), VIT
 
 I’m an MCA student at VIT focused on building practical security engineering skills through software development, security testing, and hands-on experimentation.
 
